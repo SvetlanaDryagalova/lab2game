@@ -1,4 +1,5 @@
-
+//Дрягалова Светлана
+//Б18
 #include <iostream>
 #include <string>
 #include <vector>
